@@ -14,7 +14,15 @@
   "author": "Diego Loyola <dieegolr@gmail.com>",
   "license": "ISC",
   "bin": {
-    "random-msg": "./bin/global.js"
+    "random-msg": "bin/global.js"
   },
-  "preferGlobal": true
+  "preferGlobal": true,
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dloyolar/npm-random-msg.git"
+  },
+  "bugs": {
+    "url": "https://github.com/dloyolar/npm-random-msg/issues"
+  },
+  "homepage": "https://github.com/dloyolar/npm-random-msg#readme"
 }
